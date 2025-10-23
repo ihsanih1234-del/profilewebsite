@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(#08ddc1 0%, #4cddc5 40%, #7420d3 100%);
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.RobloxScreenShot20250717_131119714 {
+    width: 200px;
+}
+.profile h4 {
+    color: white;
+    transform: translateY(-10px);
+}
+.biodata {
+    background: linear-gradient(#ffffff 0%, #ffffffd8 40%, #ffffff00 100%);
+    padding-bottom: 200PX;
+    padding-top: 55px;
+}
+.row {
+    padding: 0px 10px;
+}
+.PENCAPAIAN {
+    padding-top: 55px;
+}
